@@ -1,12 +1,5 @@
 #!/usr/bin/python
 #
-# CIS 472/572 - Logistic Regression Template Code
-#
-# Author: Daniel Lowd <lowd@cs.uoregon.edu>
-# Date:   2/9/2018
-#
-# Please use this code as the template for your solution.
-#
 import sys
 import re
 from math import log
