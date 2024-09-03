@@ -82,7 +82,7 @@ def train_lr(data, eta, l2_reg_weight):
 # attributes, x.
 def predict_lr(model, x):
     (w, b) = model
-    # YOUR CODE HERE
+  
     z = b
     for xi, wi in zip(x, w):
         z += xi * wi
