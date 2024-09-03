@@ -71,9 +71,7 @@ def predict_perceptron(model, x):
         weight_sum += wi * xi
 
     weight_sum += b
-    #
-    # YOUR CODE HERE!
-    #
+   
 
     return weight_sum
 
